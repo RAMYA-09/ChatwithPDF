@@ -1,6 +1,3 @@
-pip install -U langchain-community
-
-install -U langchain-community
 import streamlit as st
 from PyPDF2 import PdfReader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
